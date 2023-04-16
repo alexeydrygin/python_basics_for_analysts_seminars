@@ -1,2 +1,3 @@
-# python_basics_for_analysts_seminars
-Основы языка Python для аналитиков (семинары)
+# Основы языка Python для аналитиков (семинары)
+
+![](image/p-a-d.png)
